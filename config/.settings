@@ -1,0 +1,17 @@
+{
+    "projectName": "Apex Day 1",
+    "username": "mark.hausknecht@atginfo.com.apexbootcamp",
+    "id": "7f792610-b9d8-11e7-a6dd-a5d174b7ea8e",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://na73.salesforce.com",
+    "workspace": "C:\\Users\\HausknechtMark\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
