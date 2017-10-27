@@ -14,5 +14,21 @@
         "manageableState": "unmanaged",
         "type": "ApexClass",
         "mmState": "clean"
+    },
+    "Day3ListsAndLoops.cls": {
+        "id": "01p1I000008LWEwQAO",
+        "name": "Day3ListsAndLoops",
+        "createdDate": "2017-10-26T21:30:09.000+0000",
+        "createdById": "0051I000001HhoWQAS",
+        "namespacePrefix": null,
+        "lastModifiedById": "0051I000001HhoWQAS",
+        "lastModifiedDate": "2017-10-27T00:00:52.000+0000",
+        "fullName": "Day3ListsAndLoops",
+        "fileName": "unpackaged/classes/Day3ListsAndLoops.cls",
+        "createdByName": "Mark Hausknecht",
+        "lastModifiedByName": "Mark Hausknecht",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
     }
 }
