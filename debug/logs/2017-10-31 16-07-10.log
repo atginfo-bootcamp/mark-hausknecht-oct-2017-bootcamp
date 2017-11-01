@@ -1,0 +1,71 @@
+41.0 APEX_CODE,FINEST;APEX_PROFILING,INFO;CALLOUT,INFO;DB,INFO;SYSTEM,DEBUG;VALIDATION,INFO;VISUALFORCE,INFO;WAVE,INFO;WORKFLOW,INFO
+Execute Anonymous: //Day3ListsAndLoops.executeLoops();
+Execute Anonymous: 
+Execute Anonymous: Integer myMagicNumber = 0;
+Execute Anonymous: 
+Execute Anonymous: System.debug('myMagicNumber += 5 -> ' + (myMagicNumber += 5));	
+Execute Anonymous: System.debug('myMagicNumber: ' + myMagicNumber);	
+Execute Anonymous:              
+Execute Anonymous:              
+Execute Anonymous: System.debug('myMagicNumber ++ -> ' + (myMagicNumber ++));	
+Execute Anonymous: System.debug('myMagicNumber: ' + myMagicNumber);	
+15:07:07.2 (2370405)|USER_INFO|[EXTERNAL]|0051I000001HhoW|mark.hausknecht@atginfo.com.apexbootcamp|Pacific Standard Time|GMT-07:00
+15:07:07.2 (2391945)|EXECUTION_STARTED
+15:07:07.2 (2395972)|CODE_UNIT_STARTED|[EXTERNAL]|execute_anonymous_apex
+15:07:07.2 (2498998)|VARIABLE_SCOPE_BEGIN|[3]|myMagicNumber|Integer|false|false
+15:07:07.2 (2614978)|HEAP_ALLOCATE|[72]|Bytes:3
+15:07:07.2 (2653673)|HEAP_ALLOCATE|[77]|Bytes:152
+15:07:07.2 (2669912)|HEAP_ALLOCATE|[342]|Bytes:408
+15:07:07.2 (2687134)|HEAP_ALLOCATE|[355]|Bytes:408
+15:07:07.2 (2702086)|HEAP_ALLOCATE|[467]|Bytes:48
+15:07:07.2 (2728795)|HEAP_ALLOCATE|[139]|Bytes:6
+15:07:07.2 (2745475)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:10
+15:07:07.2 (2855627)|STATEMENT_EXECUTE|[1]
+15:07:07.2 (2857890)|STATEMENT_EXECUTE|[3]
+15:07:07.2 (2864405)|HEAP_ALLOCATE|[3]|Bytes:4
+15:07:07.2 (2887435)|VARIABLE_ASSIGNMENT|[3]|myMagicNumber|0
+15:07:07.2 (2892239)|STATEMENT_EXECUTE|[5]
+15:07:07.2 (2894483)|HEAP_ALLOCATE|[5]|Bytes:22
+15:07:07.2 (2902939)|HEAP_ALLOCATE|[5]|Bytes:4
+15:07:07.2 (2907662)|VARIABLE_ASSIGNMENT|[5]|myMagicNumber|5
+15:07:07.2 (2967273)|HEAP_ALLOCATE|[5]|Bytes:1
+15:07:07.2 (2986777)|HEAP_ALLOCATE|[5]|Bytes:23
+15:07:07.2 (3019450)|HEAP_ALLOCATE|[50]|Bytes:5
+15:07:07.2 (3042509)|HEAP_ALLOCATE|[56]|Bytes:5
+15:07:07.2 (3048791)|HEAP_ALLOCATE|[64]|Bytes:7
+15:07:07.2 (3078299)|USER_DEBUG|[5]|DEBUG|myMagicNumber += 5 -> 5
+15:07:07.2 (3086469)|STATEMENT_EXECUTE|[6]
+15:07:07.2 (3088643)|HEAP_ALLOCATE|[6]|Bytes:15
+15:07:07.2 (3113019)|HEAP_ALLOCATE|[6]|Bytes:1
+15:07:07.2 (3122989)|HEAP_ALLOCATE|[6]|Bytes:16
+15:07:07.2 (3130043)|USER_DEBUG|[6]|DEBUG|myMagicNumber: 5
+15:07:07.2 (3135424)|STATEMENT_EXECUTE|[9]
+15:07:07.2 (3137433)|HEAP_ALLOCATE|[9]|Bytes:20
+15:07:07.2 (3143308)|HEAP_ALLOCATE|[9]|Bytes:4
+15:07:07.2 (3150027)|VARIABLE_ASSIGNMENT|[9]|myMagicNumber|6
+15:07:07.2 (3167043)|HEAP_ALLOCATE|[9]|Bytes:1
+15:07:07.2 (3175846)|HEAP_ALLOCATE|[9]|Bytes:21
+15:07:07.2 (3182202)|USER_DEBUG|[9]|DEBUG|myMagicNumber ++ -> 5
+15:07:07.2 (3187042)|STATEMENT_EXECUTE|[10]
+15:07:07.2 (3200443)|HEAP_ALLOCATE|[10]|Bytes:1
+15:07:07.2 (3209133)|HEAP_ALLOCATE|[10]|Bytes:16
+15:07:07.2 (3215241)|USER_DEBUG|[10]|DEBUG|myMagicNumber: 6
+15:07:07.3 (3237320)|CUMULATIVE_LIMIT_USAGE
+15:07:07.3 (3237320)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 0 out of 100
+  Number of query rows: 0 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+15:07:07.3 (3237320)|CUMULATIVE_LIMIT_USAGE_END
+
+15:07:07.2 (3269610)|CODE_UNIT_FINISHED|execute_anonymous_apex
+15:07:07.2 (4235202)|EXECUTION_FINISHED
