@@ -124,5 +124,21 @@
         "manageableState": "unmanaged",
         "type": "ApexClass",
         "mmState": "clean"
+    },
+    "Person.cls": {
+        "id": "01p1I00000AyVFlQAN",
+        "name": "Person",
+        "createdDate": "2017-11-14T23:21:36.000+0000",
+        "createdById": "0051I000001HhoWQAS",
+        "namespacePrefix": null,
+        "lastModifiedById": "0051I000001HhoWQAS",
+        "lastModifiedDate": "2017-11-15T00:58:12.000+0000",
+        "fullName": "Person",
+        "fileName": "unpackaged/classes/Person.cls",
+        "createdByName": "Mark Hausknecht",
+        "lastModifiedByName": "Mark Hausknecht",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
     }
 }
