@@ -124,5 +124,37 @@
         "manageableState": "unmanaged",
         "type": "ApexClass",
         "mmState": "clean"
+    },
+    "LocationManagement.cls": {
+        "id": "01p1I00000BthSVQAZ",
+        "name": "LocationManagement",
+        "createdDate": "2017-11-20T22:36:31.000+0000",
+        "createdById": "0051I000001HhoWQAS",
+        "namespacePrefix": null,
+        "lastModifiedById": "0051I000001HhoWQAS",
+        "lastModifiedDate": "2017-11-21T00:57:34.000+0000",
+        "fullName": "LocationManagement",
+        "fileName": "unpackaged/classes/LocationManagement.cls",
+        "createdByName": "Mark Hausknecht",
+        "lastModifiedByName": "Mark Hausknecht",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    },
+    "EmployeeTrigger.trigger": {
+        "id": "01q1I0000013ztAQAQ",
+        "name": "EmployeeTrigger",
+        "createdDate": "2017-11-21T00:42:51.000+0000",
+        "createdById": "0051I000001HhoWQAS",
+        "namespacePrefix": null,
+        "lastModifiedById": "0051I000001HhoWQAS",
+        "lastModifiedDate": "2017-11-21T00:57:46.000+0000",
+        "fullName": "EmployeeTrigger",
+        "fileName": "unpackaged/triggers/EmployeeTrigger.trigger",
+        "createdByName": "Mark Hausknecht",
+        "lastModifiedByName": "Mark Hausknecht",
+        "manageableState": "unmanaged",
+        "type": "ApexTrigger",
+        "mmState": "clean"
     }
 }

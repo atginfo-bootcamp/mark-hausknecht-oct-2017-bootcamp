@@ -7,11 +7,14 @@
 		<members>Day5Maps</members>
 		<members>ContactTriggerHelper</members>
 		<members>LeadTriggerHelper</members>
+		<members>Person</members>
+		<members>LocationManagement</members>
 		<name>ApexClass</name>
 	</types>
 	<types>
 		<members>LeadTrigger</members>
 		<members>ContactTrigger</members>
+		<members>EmployeeTrigger</members>
 		<name>ApexTrigger</name>
 	</types>
 	<version>36.0</version>
