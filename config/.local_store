@@ -124,5 +124,37 @@
         "manageableState": "unmanaged",
         "type": "ApexClass",
         "mmState": "clean"
+    },
+    "BulkDeleteAccounts.page": {
+        "id": "0661I000003rpg2QAA",
+        "name": "BulkDeleteAccounts",
+        "createdDate": "2017-11-30T22:20:50.000+0000",
+        "createdById": "0051I000001HhoWQAS",
+        "namespacePrefix": null,
+        "lastModifiedById": "0051I000001HhoWQAS",
+        "lastModifiedDate": "2017-12-04T15:56:51.000+0000",
+        "fullName": "BulkDeleteAccounts",
+        "fileName": "unpackaged/pages/BulkDeleteAccounts.page",
+        "createdByName": "Mark Hausknecht",
+        "lastModifiedByName": "Mark Hausknecht",
+        "manageableState": "unmanaged",
+        "type": "ApexPage",
+        "mmState": "clean"
+    },
+    "BulkDeleteAccountsController.cls": {
+        "id": "01p1I00000DYEDNQA5",
+        "name": "BulkDeleteAccountsController",
+        "createdDate": "2017-11-30T22:21:15.000+0000",
+        "createdById": "0051I000001HhoWQAS",
+        "namespacePrefix": null,
+        "lastModifiedById": "0051I000001HhoWQAS",
+        "lastModifiedDate": "2017-12-04T15:54:11.000+0000",
+        "fullName": "BulkDeleteAccountsController",
+        "fileName": "unpackaged/classes/BulkDeleteAccountsController.cls",
+        "createdByName": "Mark Hausknecht",
+        "lastModifiedByName": "Mark Hausknecht",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
     }
 }

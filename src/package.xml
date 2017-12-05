@@ -7,12 +7,21 @@
 		<members>Day5Maps</members>
 		<members>ContactTriggerHelper</members>
 		<members>LeadTriggerHelper</members>
+		<members>Person</members>
+		<members>LocationManagement</members>
+		<members>BulkDeleteAccountsController</members>
 		<name>ApexClass</name>
 	</types>
 	<types>
 		<members>LeadTrigger</members>
 		<members>ContactTrigger</members>
+		<members>EmployeeTrigger</members>
 		<name>ApexTrigger</name>
+	</types>
+	<types>
+		<members>Day14VisualforcePage</members>
+		<members>BulkDeleteAccounts</members>
+		<name>ApexPage</name>
 	</types>
 	<version>36.0</version>
 </Package>
